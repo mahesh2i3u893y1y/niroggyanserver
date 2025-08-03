@@ -1,0 +1,28 @@
+# Ignore node modules if you're using Node.js (optional)
+node_modules/
+
+# Ignore build/dist folders
+dist/
+build/
+
+# Ignore log files
+*.log
+npm-debug.log*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment or config files
+.env
+.env.local
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore cache files
+.cache/
+*.tmp
